@@ -1,2 +1,2 @@
-# dPCR_Papers
+# ddPCR_Papers
 Collection of research papers related to the dPCR prototype project. 
